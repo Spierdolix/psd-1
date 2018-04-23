@@ -1,0 +1,26 @@
+{
+  "name": "psd-1",
+  "version": "1.0.0",
+  "description": "This is just psd transformed to website in training purposes ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spierdolix/psd-1.git"
+  },
+  "author": "Dariusz Ryś",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spierdolix/psd-1/issues"
+  },
+  "homepage": "https://github.com/Spierdolix/psd-1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.23.7",
+    "gulp-sass": "^4.0.1"
+  }
+}
